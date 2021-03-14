@@ -1,0 +1,25 @@
+//CLASS
+export const GETCLASS_LIST = "GETCLASS_LIST"
+export const CREATE_CLASS   = "CREATE_CLASS"
+export const DELETE_CLASS   = "DELETE_CLASS"
+export const UPDATE_CLASS   = "UPDATE_CLASS"
+
+
+//TERM
+export const GETTERM_LIST    = "GETTERM_LIST"
+export const CREATE_TERM  = "CREATE_TERM"
+export const DELETE_TERM  = "DELETE_TERM"
+export const UPDATE_TERM  = "UPDATE_TERM"
+
+//STREAM
+export const GETSTREAM_LIST  = "GETSTREAM_LIST"
+export const CREATE_STREAM   = "CREATE_STREAM"
+export const DELETE_STREAM   = "DELETE_STREAM"
+export const UPDATE_STREAM   = "UPDATE_STREAM"
+
+
+
+export const ADD_ERROR_API = "ADD_ERROR_API"
+export const REMOVE_ERROR_API = "REMOVE_ERROR_API"
+
+
