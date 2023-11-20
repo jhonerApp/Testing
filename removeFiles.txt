@@ -1,3 +1,3 @@
 Testing files
 
-Now we can find the value of variable in any files.
+Hi This is my latest file build today.
