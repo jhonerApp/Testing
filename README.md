@@ -1,6 +1,6 @@
 # Getting Started with Create React App 
 
-Now Editing on update
+Now Editing on update update readme
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
